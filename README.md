@@ -181,11 +181,6 @@ learning-from-less-few-shot-classification/
 │   ├── mobilenetv3_large.ipynb
 │   ├── efficientnet_b0.ipynb
 │   └── cnn_from_scratch.ipynb
-│
-├── results/
-│   ├── figures/
-│   └── few_shot_experiment_results.csv
-│
 ├── README.md
 ├── LICENSE
 └── .gitignore
